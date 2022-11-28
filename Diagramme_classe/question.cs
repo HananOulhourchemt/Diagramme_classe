@@ -10,7 +10,6 @@ namespace ExDiagrammeDeClasse
     abstract class question
     {
         protected string id;
-        protected string statement
         {
             get;
         }
